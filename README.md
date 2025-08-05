@@ -144,6 +144,7 @@ BUILD SUCCESS
 -----
 ###  Test Cases Result
 
+
 <img width="1695" height="421" alt="image" src="https://github.com/user-attachments/assets/93bf7c49-4884-4af7-871c-ccf385c5ee06" />
 
 ---
@@ -181,9 +182,10 @@ Gain hands-on experience with Maven plugins
 ## 👨‍💻 Author
 
 **Muhammad Mutee Haider**  
-Java | Spring | Spring Boot | Maven | JUnit  
-📧 mutee.dev@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-mutee-haider-21a910369) • [GitHub](https://github.com/mutee-haider)
+💼 Java | Spring | Spring Boot | Maven | JUnit  
+📧 Email: [mutee.dev@gmail.com](mailto:mutee.dev@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/muhammad-mutee-haider-21a910369](https://www.linkedin.com/in/muhammad-mutee-haider-21a910369)  
+💻 GitHub: [github.com/mutee-haider](https://github.com/mutee-haider)
 
 
 ---
